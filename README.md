@@ -6,7 +6,7 @@
 
 ## What is Pinokio Factory?
 
-Pinokio Factory is an experimental community for building on [Pinokio](https://pinokio.computer) together.
+Pinokio Factory is an experimental group for building on [Pinokio](https://pinokio.computer) together, in a distributed manner.
 
 1. Pinokio Factory is a [Github organization](https://github.com/pinokiofactory), which anyone can apply to join.
 2. Once joined, members can freely publish projects under the Pinokio Factory Github organization and discuss with others through Github issues, or through [Pinokio Discord](https://discord.gg/TQdNwadtE4).
@@ -40,6 +40,6 @@ Pinokio Factory is an open ended github organization with an experimental workfl
 
 ## How to join?
 
-Anyone is free to apply to join. Just fill out the form here and you may hear back soon:
+Anyone is free to apply to join. Just fill out the form here and you may hear back soon, when we are ready to go:
 
 <a href="https://forms.gle/CoE7BuJN1pLSv7UV6" class='btn'>Apply to Join Pinokio Factory</a>
